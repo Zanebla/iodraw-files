@@ -16,7 +16,7 @@
         <mxCell id="bmMbOLM50U_VgACPV154-4" value="GPT-4o" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="382" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-5" value="DeepSeek V3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bmMbOLM50U_VgACPV154-5" value="DeepSeek V3.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="419" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
