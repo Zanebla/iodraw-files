@@ -86,7 +86,7 @@
         <mxCell id="mHk1LpA3Q13418j2cnWD-22" value="增强的角色提示词工程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
           <mxGeometry x="158" y="734" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mHk1LpA3Q13418j2cnWD-25" value="任&lt;div&gt;务&lt;/div&gt;&lt;div&gt;执&lt;/div&gt;&lt;div&gt;行&lt;/div&gt;&lt;div&gt;阶&lt;/div&gt;&lt;div&gt;段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
+        <mxCell id="mHk1LpA3Q13418j2cnWD-25" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;任&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;务&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;执&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;行&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;阶&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;段&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
           <mxGeometry x="10" y="462" width="50" height="308" as="geometry" />
         </mxCell>
       </root>
