@@ -52,6 +52,12 @@
         <mxCell id="mHk1LpA3Q13418j2cnWD-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;通过MCP客户端使用工具&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（fetchMCP爬取网页）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（fileMCP文件操作）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
           <mxGeometry x="50" y="550" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mHk1LpA3Q13418j2cnWD-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="sourcePoint" />
+            <mxPoint x="460" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
