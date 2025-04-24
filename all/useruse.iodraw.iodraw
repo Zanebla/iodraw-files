@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="bHBLfCfgJxSca0Pwhzgc">
-    <mxGraphModel dx="140" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,10 +43,9 @@
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="bmMbOLM50U_VgACPV154-10" source="bmMbOLM50U_VgACPV154-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="320" as="targetPoint" />
+            <mxPoint x="650" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="651" y="236" />
-              <mxPoint x="651" y="320" />
+              <mxPoint x="650" y="236" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -55,6 +54,9 @@
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-16" value="调用 SendMessage 函数&lt;div&gt;将模型和输入文本发送给服务端&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
           <mxGeometry x="550" y="140" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmMbOLM50U_VgACPV154-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
+          <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
