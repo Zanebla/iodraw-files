@@ -58,6 +58,12 @@
         <mxCell id="bmMbOLM50U_VgACPV154-19" value="&lt;div&gt;通过useState的setIsLoading&lt;/div&gt;&lt;div&gt;渲染加载状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
           <mxGeometry x="550" y="290" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bmMbOLM50U_VgACPV154-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmMbOLM50U_VgACPV154-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmMbOLM50U_VgACPV154-16" target="bmMbOLM50U_VgACPV154-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
