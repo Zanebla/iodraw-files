@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mHk1LpA3Q13418j2cnWD-1" value="&lt;h1&gt;系统初始化&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="150" width="190" height="30" as="geometry" />
+        <mxCell id="mHk1LpA3Q13418j2cnWD-1" value="&lt;h1&gt;&lt;b&gt;系统初始化&lt;/b&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="190" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
