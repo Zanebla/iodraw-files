@@ -66,8 +66,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHk1LpA3Q13418j2cnWD-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="100" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="mHk1LpA3Q13418j2cnWD-18" value="RAG检索增强生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
+          <mxGeometry x="50" y="640" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
