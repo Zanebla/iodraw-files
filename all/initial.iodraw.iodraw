@@ -16,8 +16,8 @@
         <mxCell id="mHk1LpA3Q13418j2cnWD-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;创建MCP客户端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
           <mxGeometry x="80" y="70" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mHk1LpA3Q13418j2cnWD-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="80" y="145" width="140" height="60" as="geometry" />
+        <mxCell id="mHk1LpA3Q13418j2cnWD-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;创建主代理&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
+          <mxGeometry x="80" y="145" width="160" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
