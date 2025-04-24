@@ -64,8 +64,8 @@
         <mxCell id="bmMbOLM50U_VgACPV154-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmMbOLM50U_VgACPV154-16" target="bmMbOLM50U_VgACPV154-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-23" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="280" width="200" height="200" as="geometry" />
+        <mxCell id="bmMbOLM50U_VgACPV154-23" value="服务端流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="280" width="580" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
