@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="BENtjOgPyuwuJIINu08u">
-    <mxGraphModel dx="500" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,37 +14,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;创建MCP客户端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="80" y="70" width="160" height="50" as="geometry" />
+          <mxGeometry x="85" y="70" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mHk1LpA3Q13418j2cnWD-2" source="mHk1LpA3Q13418j2cnWD-4" target="mHk1LpA3Q13418j2cnWD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;创建主智能体&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="80" y="145" width="160" height="45" as="geometry" />
+          <mxGeometry x="85" y="145" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mHk1LpA3Q13418j2cnWD-2" source="mHk1LpA3Q13418j2cnWD-6" target="mHk1LpA3Q13418j2cnWD-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化所有MCP客户端&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="80" y="220" width="160" height="50" as="geometry" />
+          <mxGeometry x="85" y="220" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mHk1LpA3Q13418j2cnWD-2" source="mHk1LpA3Q13418j2cnWD-8" target="mHk1LpA3Q13418j2cnWD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;获取所有可用的工具&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="80" y="300" width="160" height="50" as="geometry" />
+          <mxGeometry x="85" y="300" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mHk1LpA3Q13418j2cnWD-2" source="mHk1LpA3Q13418j2cnWD-10" target="mHk1LpA3Q13418j2cnWD-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;创建ChatOpenAI实例&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="80" y="380" width="160" height="50" as="geometry" />
+          <mxGeometry x="85" y="380" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mHk1LpA3Q13418j2cnWD-2" source="mHk1LpA3Q13418j2cnWD-12" target="mHk1LpA3Q13418j2cnWD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;LLM大语言模型的循环调用&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="50" y="460" width="220" height="60" as="geometry" />
+          <mxGeometry x="55" y="460" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-14" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;初&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;始&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;化&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;阶&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;段&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
           <mxGeometry x="10" y="70" width="50" height="360" as="geometry" />
@@ -53,30 +53,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;通过MCP客户端使用工具&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（fetchMCP爬取网页）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（fileMCP文件操作）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="50" y="550" width="220" height="60" as="geometry" />
+          <mxGeometry x="55" y="550" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mHk1LpA3Q13418j2cnWD-2" source="mHk1LpA3Q13418j2cnWD-15" target="mHk1LpA3Q13418j2cnWD-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="460" as="sourcePoint" />
-            <mxPoint x="150" y="410" as="targetPoint" />
+            <mxPoint x="105" y="460" as="sourcePoint" />
+            <mxPoint x="155" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="580" />
-              <mxPoint x="300" y="530" />
-              <mxPoint x="300" y="490" />
+              <mxPoint x="305" y="580" />
+              <mxPoint x="305" y="530" />
+              <mxPoint x="305" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;RAG检索增强生成&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="50" y="640" width="220" height="60" as="geometry" />
+          <mxGeometry x="55" y="640" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mHk1LpA3Q13418j2cnWD-2" source="mHk1LpA3Q13418j2cnWD-18" target="mHk1LpA3Q13418j2cnWD-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="590" as="sourcePoint" />
-            <mxPoint x="190" y="540" as="targetPoint" />
+            <mxPoint x="145" y="590" as="sourcePoint" />
+            <mxPoint x="195" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="20" y="670" />
-              <mxPoint x="20" y="580" />
-              <mxPoint x="20" y="490" />
+              <mxPoint x="25" y="670" />
+              <mxPoint x="25" y="580" />
+              <mxPoint x="25" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
