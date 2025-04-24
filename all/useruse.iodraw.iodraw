@@ -28,8 +28,8 @@
         <mxCell id="bmMbOLM50U_VgACPV154-10" value="客户端流程" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="590" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
-          <mxGeometry x="330" y="170" width="140" height="120" as="geometry" />
+        <mxCell id="bmMbOLM50U_VgACPV154-12" value="点击按钮或敲击Enter触发 handSend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
+          <mxGeometry x="380" y="190" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
