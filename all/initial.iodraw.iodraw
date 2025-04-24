@@ -110,8 +110,14 @@
         <mxCell id="mHk1LpA3Q13418j2cnWD-30" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;初始化WebSocket服务&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;通过Socket.IO等待前端连接&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-28">
           <mxGeometry x="130" y="170" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mHk1LpA3Q13418j2cnWD-32" value="npm run dev 前端启动" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-28">
-          <mxGeometry x="130" y="260" width="270" height="60" as="geometry" />
+        <mxCell id="mHk1LpA3Q13418j2cnWD-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mHk1LpA3Q13418j2cnWD-28" source="mHk1LpA3Q13418j2cnWD-32" target="mHk1LpA3Q13418j2cnWD-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mHk1LpA3Q13418j2cnWD-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;npm run dev 前端启动&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-28">
+          <mxGeometry x="130" y="260" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mHk1LpA3Q13418j2cnWD-34" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-28">
+          <mxGeometry x="205" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
