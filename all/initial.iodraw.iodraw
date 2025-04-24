@@ -35,7 +35,7 @@
           <mxGeometry x="80" y="300" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHk1LpA3Q13418j2cnWD-10" value="创建ChatOpenAI实例" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="100" y="425" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="380" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
