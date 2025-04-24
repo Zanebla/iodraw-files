@@ -83,8 +83,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHk1LpA3Q13418j2cnWD-22" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
-          <mxGeometry x="158" y="750" width="220" height="40" as="geometry" />
+        <mxCell id="mHk1LpA3Q13418j2cnWD-22" value="增强的角色提示词工程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mHk1LpA3Q13418j2cnWD-2">
+          <mxGeometry x="158" y="734" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
