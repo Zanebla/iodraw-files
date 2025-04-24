@@ -40,7 +40,7 @@
         <mxCell id="bmMbOLM50U_VgACPV154-12" value="点击按钮或敲击Enter&lt;div&gt;触发 handSend 函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
           <mxGeometry x="340" y="211" width="170" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-16" value="SendMessage" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
+        <mxCell id="bmMbOLM50U_VgACPV154-16" value="SendMessage&lt;div&gt;将模型和输入文本发送给服务端&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
           <mxGeometry x="540" y="205.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
