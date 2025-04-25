@@ -32,7 +32,7 @@
           <mxGeometry x="166" y="571" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-10" value="客户端流程" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="280" width="790" height="450" as="geometry" />
+          <mxGeometry x="90" y="280" width="850" height="480" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bmMbOLM50U_VgACPV154-10" target="bmMbOLM50U_VgACPV154-16" edge="1">
           <mxGeometry relative="1" as="geometry">
