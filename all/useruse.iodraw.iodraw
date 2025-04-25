@@ -78,8 +78,8 @@
         <mxCell id="t--dBZHDCF5LJGjg_E6p-1" value="LLM" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
           <mxGeometry x="485" y="30" width="50" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="t--dBZHDCF5LJGjg_E6p-2" value="输出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
-          <mxGeometry x="279" y="193" width="120" height="33.5" as="geometry" />
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-2" value="流式输出产品经理消息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
+          <mxGeometry x="270" y="193" width="129" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="t--dBZHDCF5LJGjg_E6p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bmMbOLM50U_VgACPV154-23" source="5O4K3FEgQjv3InmDXWPy-1" target="t--dBZHDCF5LJGjg_E6p-1">
           <mxGeometry relative="1" as="geometry" />
