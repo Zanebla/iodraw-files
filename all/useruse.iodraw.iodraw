@@ -70,10 +70,10 @@
         <mxCell id="5O4K3FEgQjv3InmDXWPy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="bmMbOLM50U_VgACPV154-23" source="bmMbOLM50U_VgACPV154-21" target="5O4K3FEgQjv3InmDXWPy-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-21" value="设置LLM并生成会话ID" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="bmMbOLM50U_VgACPV154-23" vertex="1">
+        <mxCell id="bmMbOLM50U_VgACPV154-21" value="&lt;b&gt;设置LLM并生成会话ID&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="bmMbOLM50U_VgACPV154-23" vertex="1">
           <mxGeometry x="93" y="145" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5O4K3FEgQjv3InmDXWPy-1" value="构建产品经理提示词" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="bmMbOLM50U_VgACPV154-23" vertex="1">
+        <mxCell id="5O4K3FEgQjv3InmDXWPy-1" value="&lt;b&gt;构建产品经理提示词&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="bmMbOLM50U_VgACPV154-23" vertex="1">
           <mxGeometry x="280" y="71" width="130" height="39" as="geometry" />
         </mxCell>
         <mxCell id="t--dBZHDCF5LJGjg_E6p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=195;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bmMbOLM50U_VgACPV154-23" source="t--dBZHDCF5LJGjg_E6p-1" target="t--dBZHDCF5LJGjg_E6p-2">
