@@ -71,7 +71,7 @@
           <mxGeometry x="47" y="145" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5O4K3FEgQjv3InmDXWPy-1" value="构建产品经理提示词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
-          <mxGeometry x="301" y="63" width="119" height="47" as="geometry" />
+          <mxGeometry x="280" y="63" width="119" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
