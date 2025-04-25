@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t--dBZHDCF5LJGjg_E6p-30" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;多轮记忆&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeWidth=2;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
-          <mxGeometry x="77" y="41" width="90" height="70" as="geometry" />
+          <mxGeometry x="76" y="40" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="t--dBZHDCF5LJGjg_E6p-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=55;entryDy=70;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="bmMbOLM50U_VgACPV154-23" source="t--dBZHDCF5LJGjg_E6p-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
