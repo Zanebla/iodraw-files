@@ -58,7 +58,7 @@
         <mxCell id="t--dBZHDCF5LJGjg_E6p-10" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;流式输出&lt;/b&gt;&lt;div&gt;&lt;b&gt;循环渲染&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;PM消息&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;amp;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;SDE消息&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
           <mxGeometry x="780" y="170" width="60" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="t--dBZHDCF5LJGjg_E6p-24" value="&lt;b&gt;在线游戏直接运行&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-24" value="&lt;b&gt;在线游戏直接运行&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
           <mxGeometry x="366" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bmMbOLM50U_VgACPV154-16" target="bmMbOLM50U_VgACPV154-21" edge="1">
