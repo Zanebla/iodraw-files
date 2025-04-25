@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-21" value="设置LLM并生成会话ID" style="whiteSpace=wrap;html=1;rounded=1;" parent="bmMbOLM50U_VgACPV154-23" vertex="1">
-          <mxGeometry x="47" y="145" width="155" height="30" as="geometry" />
+          <mxGeometry x="68" y="145" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5O4K3FEgQjv3InmDXWPy-1" value="构建产品经理提示词" style="rounded=1;whiteSpace=wrap;html=1;" parent="bmMbOLM50U_VgACPV154-23" vertex="1">
           <mxGeometry x="280" y="71" width="119" height="37" as="geometry" />
