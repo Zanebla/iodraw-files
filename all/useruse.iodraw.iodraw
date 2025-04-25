@@ -84,8 +84,8 @@
         <mxCell id="t--dBZHDCF5LJGjg_E6p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bmMbOLM50U_VgACPV154-23" source="5O4K3FEgQjv3InmDXWPy-1" target="t--dBZHDCF5LJGjg_E6p-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t--dBZHDCF5LJGjg_E6p-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="350" width="210" height="30" as="geometry" />
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
+          <mxGeometry x="-80" y="40" width="160" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
