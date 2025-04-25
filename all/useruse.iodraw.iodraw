@@ -152,6 +152,9 @@
             <mxPoint x="320" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-42" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i&gt;产品经理&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
+          <mxGeometry x="430" y="210.5" width="50" height="49" as="geometry" />
+        </mxCell>
         <mxCell id="t--dBZHDCF5LJGjg_E6p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.001;entryY=0.224;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t--dBZHDCF5LJGjg_E6p-2" target="t--dBZHDCF5LJGjg_E6p-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -181,9 +184,6 @@
             <mxPoint x="1080" y="610" as="sourcePoint" />
             <mxPoint x="1130" y="470" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="t--dBZHDCF5LJGjg_E6p-42" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i&gt;产品经理&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="356" width="50" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
