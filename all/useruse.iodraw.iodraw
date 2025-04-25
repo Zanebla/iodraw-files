@@ -122,10 +122,10 @@
             <mxPoint x="-120" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t--dBZHDCF5LJGjg_E6p-7" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-7" value="&lt;b&gt;&lt;i&gt;Socket&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
           <mxGeometry x="20" y="40" width="40" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="t--dBZHDCF5LJGjg_E6p-6" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-6" value="&lt;b&gt;&lt;i&gt;Socket&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
           <mxGeometry x="-100" y="40" width="40" height="390" as="geometry" />
         </mxCell>
         <mxCell id="t--dBZHDCF5LJGjg_E6p-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=10;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bmMbOLM50U_VgACPV154-23" source="t--dBZHDCF5LJGjg_E6p-30" target="5O4K3FEgQjv3InmDXWPy-1">
