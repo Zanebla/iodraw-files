@@ -70,11 +70,17 @@
         <mxCell id="bmMbOLM50U_VgACPV154-21" value="设置LLM并生成会话ID" style="whiteSpace=wrap;html=1;rounded=1;" parent="bmMbOLM50U_VgACPV154-23" vertex="1">
           <mxGeometry x="47" y="145" width="155" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bmMbOLM50U_VgACPV154-23" source="5O4K3FEgQjv3InmDXWPy-1" target="t--dBZHDCF5LJGjg_E6p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5O4K3FEgQjv3InmDXWPy-1" value="构建产品经理提示词" style="rounded=1;whiteSpace=wrap;html=1;" parent="bmMbOLM50U_VgACPV154-23" vertex="1">
           <mxGeometry x="280" y="71" width="119" height="37" as="geometry" />
         </mxCell>
         <mxCell id="t--dBZHDCF5LJGjg_E6p-1" value="LLM" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
-          <mxGeometry x="440" y="126" width="130" height="50" as="geometry" />
+          <mxGeometry x="440" y="113" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
+          <mxGeometry x="279.5" y="176.5" width="120" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
