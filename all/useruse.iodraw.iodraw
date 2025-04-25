@@ -90,9 +90,6 @@
         <mxCell id="t--dBZHDCF5LJGjg_E6p-7" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
           <mxGeometry x="20" y="40" width="40" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="t--dBZHDCF5LJGjg_E6p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.207;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bmMbOLM50U_VgACPV154-23" source="t--dBZHDCF5LJGjg_E6p-2" target="t--dBZHDCF5LJGjg_E6p-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
