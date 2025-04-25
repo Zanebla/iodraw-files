@@ -42,14 +42,8 @@
             <mxPoint x="476" y="235.57142857142867" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="bmMbOLM50U_VgACPV154-10" target="bmMbOLM50U_VgACPV154-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="616" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="616" y="236" />
-            </Array>
-            <mxPoint x="476" y="235.5" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bmMbOLM50U_VgACPV154-10" source="bmMbOLM50U_VgACPV154-12" target="bmMbOLM50U_VgACPV154-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-12" value="点击按钮或敲击Enter&lt;div&gt;触发 handSend 函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="bmMbOLM50U_VgACPV154-10" vertex="1">
           <mxGeometry x="336" y="211" width="180" height="49" as="geometry" />
