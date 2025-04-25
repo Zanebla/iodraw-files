@@ -67,6 +67,9 @@
         <mxCell id="bmMbOLM50U_VgACPV154-21" value="设置LLM并生成会话ID" style="whiteSpace=wrap;html=1;rounded=1;" parent="bmMbOLM50U_VgACPV154-23" vertex="1">
           <mxGeometry x="47" y="145" width="155" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5O4K3FEgQjv3InmDXWPy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
+          <mxGeometry x="330" y="63" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
