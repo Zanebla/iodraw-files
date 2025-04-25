@@ -73,9 +73,6 @@
         <mxCell id="5O4K3FEgQjv3InmDXWPy-1" value="构建产品经理提示词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
           <mxGeometry x="280" y="71" width="119" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="5O4K3FEgQjv3InmDXWPy-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="540" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
