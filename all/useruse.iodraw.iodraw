@@ -77,10 +77,10 @@
           <mxGeometry x="280" y="71" width="119" height="37" as="geometry" />
         </mxCell>
         <mxCell id="t--dBZHDCF5LJGjg_E6p-1" value="LLM" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
-          <mxGeometry x="440" y="113" width="130" height="50" as="geometry" />
+          <mxGeometry x="510" y="113" width="60" height="227" as="geometry" />
         </mxCell>
         <mxCell id="t--dBZHDCF5LJGjg_E6p-2" value="输出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="bmMbOLM50U_VgACPV154-23">
-          <mxGeometry x="279" y="200" width="120" height="33.5" as="geometry" />
+          <mxGeometry x="279" y="193" width="120" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
