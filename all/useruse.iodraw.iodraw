@@ -28,7 +28,7 @@
         <mxCell id="bmMbOLM50U_VgACPV154-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bmMbOLM50U_VgACPV154-7" target="bmMbOLM50U_VgACPV154-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-7" value="输入游戏想法&lt;div&gt;&lt;div&gt;（简单描述）&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="bmMbOLM50U_VgACPV154-7" value="&lt;b&gt;输入游戏想法&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;（简单描述）&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="166" y="571" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-10" value="客户端流程" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -46,10 +46,10 @@
         <mxCell id="t--dBZHDCF5LJGjg_E6p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bmMbOLM50U_VgACPV154-10" source="bmMbOLM50U_VgACPV154-12" target="bmMbOLM50U_VgACPV154-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-12" value="点击按钮或敲击Enter&lt;div&gt;触发 handSend 函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="bmMbOLM50U_VgACPV154-10" vertex="1">
+        <mxCell id="bmMbOLM50U_VgACPV154-12" value="&lt;b&gt;点击按钮或敲击Enter&lt;/b&gt;&lt;div&gt;&lt;b&gt;触发 handSend 函数&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="bmMbOLM50U_VgACPV154-10" vertex="1">
           <mxGeometry x="336" y="195" width="180" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-16" value="调用 SendMessage 函数&lt;div&gt;将模型和输入文本发送给服务端&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="bmMbOLM50U_VgACPV154-10" vertex="1">
+        <mxCell id="bmMbOLM50U_VgACPV154-16" value="&lt;b&gt;调用 SendMessage 函数&lt;/b&gt;&lt;div&gt;&lt;b&gt;将模型和输入文本发送给服务端&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" parent="bmMbOLM50U_VgACPV154-10" vertex="1">
           <mxGeometry x="515" y="140" width="215" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-19" value="&lt;div&gt;通过useState的setIsLoading&lt;/div&gt;&lt;div&gt;渲染加载状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="bmMbOLM50U_VgACPV154-10" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="t--dBZHDCF5LJGjg_E6p-10" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;流式输出&lt;div&gt;循环渲染&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PM消息&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;br&gt;&lt;div&gt;SDE消息&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
           <mxGeometry x="780" y="170" width="60" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="t--dBZHDCF5LJGjg_E6p-24" value="在线游戏直接运行" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
+        <mxCell id="t--dBZHDCF5LJGjg_E6p-24" value="&lt;b&gt;在线游戏直接运行&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="bmMbOLM50U_VgACPV154-10">
           <mxGeometry x="366" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bmMbOLM50U_VgACPV154-16" target="bmMbOLM50U_VgACPV154-21" edge="1">
