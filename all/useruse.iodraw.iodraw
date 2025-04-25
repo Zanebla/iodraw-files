@@ -34,29 +34,31 @@
         <mxCell id="bmMbOLM50U_VgACPV154-10" value="客户端流程" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="280" width="800" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bmMbOLM50U_VgACPV154-10" source="bmMbOLM50U_VgACPV154-12" target="bmMbOLM50U_VgACPV154-16" edge="1">
+        <mxCell id="bmMbOLM50U_VgACPV154-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bmMbOLM50U_VgACPV154-10" target="bmMbOLM50U_VgACPV154-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="236" />
+              <mxPoint x="649" y="236" />
             </Array>
+            <mxPoint x="509" y="235.57142857142867" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bmMbOLM50U_VgACPV154-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="bmMbOLM50U_VgACPV154-10" source="bmMbOLM50U_VgACPV154-12" target="bmMbOLM50U_VgACPV154-19" edge="1">
+        <mxCell id="bmMbOLM50U_VgACPV154-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="bmMbOLM50U_VgACPV154-10" target="bmMbOLM50U_VgACPV154-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="300" as="targetPoint" />
+            <mxPoint x="649" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="650" y="236" />
+              <mxPoint x="649" y="236" />
             </Array>
+            <mxPoint x="509" y="235.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-12" value="点击按钮或敲击Enter&lt;div&gt;触发 handSend 函数&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="bmMbOLM50U_VgACPV154-10" vertex="1">
           <mxGeometry x="340" y="211" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-16" value="调用 SendMessage 函数&lt;div&gt;将模型和输入文本发送给服务端&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="bmMbOLM50U_VgACPV154-10" vertex="1">
-          <mxGeometry x="549" y="140" width="210" height="40" as="geometry" />
+          <mxGeometry x="548" y="140" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-19" value="&lt;div&gt;通过useState的setIsLoading&lt;/div&gt;&lt;div&gt;渲染加载状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="bmMbOLM50U_VgACPV154-10" vertex="1">
-          <mxGeometry x="549" y="290" width="200" height="40" as="geometry" />
+          <mxGeometry x="548" y="290" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bmMbOLM50U_VgACPV154-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bmMbOLM50U_VgACPV154-16" target="bmMbOLM50U_VgACPV154-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
